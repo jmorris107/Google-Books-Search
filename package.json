@@ -21,6 +21,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "bootswatch": "^4.5.3",
+    "build": "^0.1.4",
     "express": "^4.17.1",
     "if-env": "^1.0.4",
     "moment": "^2.29.1",
