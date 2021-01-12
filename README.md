@@ -42,9 +42,7 @@ In addition, add this homework to your portfolio, more information can be found 
 To check your record, click "Dashboard" right above of the page next to the"Fitness Tracker."
 To run this app via VS code, run <code>npm start</code>, and go http://localhost:3000.
 
-![workout](public/images/workoutpage.jpg);
-![exercise](public/images/exercisepage.jpg);
-![dashboard](public/images/dashboardpage.jpg);
+![Google Books Search](GoogleBooks.gif) 
 
 # Installation
 🗳 <code>Node.js</code>,<code>npm install</code>,<code> npm install start</code>,<code>npm install axios</code>,<code>npm install bootswatch</code>,<code>npm install build</code>,<code>npm install express</code>,<code>npm install if-env</code>,<code>npm install moment</code>,<code>npm install mongoose</code>,<code>npm install react</code>,<code>npm install react-dom</code>,<code>npm install react-router-dom</code>
