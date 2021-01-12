@@ -43,7 +43,7 @@ To run this app via VS code, run <code>npm start</code>, and go http://localhost
 ![dashboard](public/images/dashboardpage.jpg);
 
 # Installation
-🗳 <code>Node.js</code>,<code>npm install</code>,<code>npm install express</code>,<code> npm install start</code>,<code>npm install mongojs</code>,<code>npm install mongoose</code>,<code>npm install morgan</code>,<code>npm install watch</code>
+🗳 <code>Node.js</code>,<code>npm install</code>,<code> npm install start</code>,<code>npm install axios</code>,<code>npm install bootswatch</code>,<code>npm install build</code>,<code>npm install express</code>,<code>npm install if-env</code>,<code>npm install moment</code>,<code>npm install mongoose</code>,<code>npm install react</code>,<code>npm install react-dom</code>,<code>npm install react-router-dom</code>
   
 # Links
 :atom_symbol: [Heroku](https://google-books-search-jennifer.herokuapp.com/)<br />
