@@ -1,5 +1,5 @@
 
-# 🏋🏻‍♀️Nosq Workout Tracker🤸🏿‍♀️
+# 📖‍ React Google Books Search 💻
 
 
   ![node badge](https://img.shields.io/badge/node-v12.19.0-green.svg)
@@ -11,7 +11,6 @@
   ![Javascript badge](https://img.shields.io/badge/JavaScript-yellow.svg)
   ![jQuery badge](https://img.shields.io/badge/jQuery-blue.svg)
   ![Node.js badge](https://img.shields.io/badge/Node.js-green.svg)
-  ![express.js](https://img.shields.io/badge/express.js-red.svg)
   ![JSON](https://img.shields.io/badge/JSON-orange.svg)
   ![MongoDB](https://img.shields.io/badge/MongoDB-green.svg)
 
@@ -19,7 +18,7 @@
   
   
   # Description
-  📝 This is a workout tracker app which use Mongo database with a Mongoose schema and handle routes with Express.
+  📝 This is a  new React-based Google Books Search app. This app work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. It's also use Node, Express and MongoDB so that users can save books to review or purchase later.
  
 
   # Table of Contents
