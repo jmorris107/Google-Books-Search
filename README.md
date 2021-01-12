@@ -38,8 +38,7 @@ In addition, add this homework to your portfolio, more information can be found 
 
 
 # Usage
-💻 Open [Heroku](https://google-books-search-jennifer.herokuapp.com/) link, click Add excercise, choose excercise type, enter the displayed items, and then click "Add exercise" if you want to add an another exercise, or "complete." 
-To check your record, click "Dashboard" right above of the page next to the"Fitness Tracker."
+💻 Open [Heroku](https://google-books-search-jennifer.herokuapp.com/) link, write a word about the title or author of the book and click "Search." When you find the book you want, click "Save" to save it to the Saved page.
 To run this app via VS code, run <code>npm start</code>, and go http://localhost:3000.
 
 ![Google Books Search](GoogleBooks.gif) 
