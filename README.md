@@ -31,12 +31,10 @@
 ```
 Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Hosting on Heroku and adding a README.md are required for this homework. In addition, add this homework to your portfolio, more information can be found below.
 ```
-# User Story 👩🏻‍💻
 
-As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 # Usage
-💻 Open [Heroku](https://workout-nosql.herokuapp.com/?id=5fcb9e4cab70ca0017ceafcc) link, click Add excercise, choose excercise type, enter the displayed items, and then click "Add exercise" if you want to add an another exercise, or "complete." 
+💻 Open [Heroku](https://google-books-search-jennifer.herokuapp.com/) link, click Add excercise, choose excercise type, enter the displayed items, and then click "Add exercise" if you want to add an another exercise, or "complete." 
 To check your record, click "Dashboard" right above of the page next to the"Fitness Tracker."
 To run this app via VS code, run <code>npm start</code>, and go http://localhost:3000.
 
@@ -48,7 +46,8 @@ To run this app via VS code, run <code>npm start</code>, and go http://localhost
 🗳 <code>Node.js</code>,<code>npm install</code>,<code>npm install express</code>,<code> npm install start</code>,<code>npm install mongojs</code>,<code>npm install mongoose</code>,<code>npm install morgan</code>,<code>npm install watch</code>
   
 # Links
-:atom_symbol: [Heroku](https://workout-nosql.herokuapp.com/?id=5fcbe250dc526d001779c217)<br />
-:octocat: Github [Repo](https://github.com/jmorris107/Nosq-Workout-Tracker.github.io) / [Account](https://github.com/)<br />
+:atom_symbol: [Heroku](https://google-books-search-jennifer.herokuapp.com/)<br />
+:octocat: Github [Repo](https://github.com/jmorris107/Google-Books-Search.github.io) / [Account](https://github.com/)<br />
+📃 [My Potfolio](https://react-portfolio-jennifer.herokuapp.com/) 
 <br />
   
