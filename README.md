@@ -27,31 +27,9 @@
   - [Installation](#installation)
   - [Links](#links)
 
-# Acceptance Criteria
+# Minimum Requirements
 ```
-When the user loads the page, they should be given the option to create a new workout or continue 
-with their last workout.
-The user should be able to:
-
-
-Add exercises to a previous workout plan.
-
-
-Add new exercises to a new workout plan.
-
-
-View the combined weight of multiple exercises on the stats page.
-
-
-To deploy an application with a MongoDB database to Heroku, you'll need to set up a MongoDB Atlas 
-account and connect a database from there to your application. Be sure to use the following guides 
-for support:
-
-
-Set Up MongoDB Atlas
-
-
-Deploy with Heroku and MongoDB Atlas
+Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Hosting on Heroku and adding a README.md are required for this homework. In addition, add this homework to your portfolio, more information can be found below.
 ```
 # User Story 👩🏻‍💻
 
